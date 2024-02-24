@@ -2,7 +2,9 @@
 
 A basic example of using Python with the GitHub API. 
 
+```
 python -m pip install requests
+```
 
 ***
 
